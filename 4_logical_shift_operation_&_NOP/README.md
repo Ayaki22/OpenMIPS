@@ -9,11 +9,11 @@
 # Results
 This part implements 8 logical operation instructions and 6 shift operation instructions, and treats the sync instruction as a nop instruction.
 
-!! pref instruction is used for cache prefetching, but OpenMIPS does not implement caching.
+!! The pref instruction is used for cache prefetching, but OpenMIPS does not implement cache.
 
 ### Instruction
 
-The following 4 instructions are to be implemented
+The following instructions are to be implemented
 * Logic
 ```
 lui  $1, 0x0101
