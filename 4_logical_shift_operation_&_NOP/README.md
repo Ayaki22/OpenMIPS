@@ -1,6 +1,6 @@
 <center>
     <h1 align="center">OpenMIPS CPU</h1>
-    <h4 align="center">Implement logic、shift operation & NOP</strong> </h4>
+    <h4 align="center">Implement logical、shift operation & NOP</strong> </h4>
     <p align="center">
         <strong>Last updated:</strong> 20 Sep 2024<br>
     </p> 
