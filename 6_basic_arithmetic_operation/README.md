@@ -78,11 +78,14 @@ multu $1, $2 # HI=0x5、LO=0xffffffe2
 ### Waveform
 * add、addi、addiu、addu、sub、subu
 ![waveform_1](img/waveform_1.jpg)
+
 * slt、sltu、slti、sltiu
 ![waveform_2](img/waveform_2.jpg)
+
 * clz、clo
 ![waveform_3](img/waveform_3.jpg)
 ![waveform_4](img/waveform_4.jpg)
+
 * mul、mult、multu
 ![waveform_5](img/waveform_5.jpg)
 
