@@ -1,6 +1,6 @@
 <center>
     <h1 align="center">OpenMIPS CPU</h1>
-    <h4 align="center">Implement load and store operation</strong> </h4>
+    <h4 align="center">Implement load and store operation part 1</strong> </h4>
     <p align="center">
         <strong>Last updated:</strong> 30 Sep 2024<br>
     </p> 
